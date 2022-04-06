@@ -2,4 +2,4 @@
 
 # click to see (https://react-musa-slider.netlify.app )
 
-![](./fakestore res.png);
+#![](./fakestore res.png);
